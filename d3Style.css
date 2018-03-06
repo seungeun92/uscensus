@@ -1,0 +1,17 @@
+.toolTip {
+	position:absolute;
+	width:150px;
+	height:125px;
+	padding:5px;
+	font-size:12px;
+	font-family: Arial;
+	color:black;
+	text-align:center;
+	background:#d4d9f8;
+	opacity:2;
+}
+
+.axisText {
+	font-family: Arial;
+	font-size:18px;
+}
